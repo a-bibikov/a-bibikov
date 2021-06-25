@@ -1,18 +1,9 @@
-Опыт коммерческой fullstack разработки более 3 лет, frontend разработка более 5 лет, в том числе на крупных проектах. Закончил Harvard Extension School, прошел обучение Яндекс ШРИ. Уверенно разбираюсь в архитектуре проекта, сущностях и структуре данных. Крупные заказчики: концерн Калашников, Проекттехника, Промстрой (готов предоставить контакты дирекции для подтверждения и рекомендаций). 
+Hello. My name is Alexander. I am Frontend javascript developer (React.js) with some Node.js background. I'm ready for relocation or remote work as Frontend developer.
 
-Инструменты и технологии выбираю в зависимости от задач и проекта. Работаю с React + Redux, Node JS, Express, PostreSQL, а так же 1С-Битрикс + MySQL. 
+I create websites and services for my clients during more than 7 years as fullstack developer. My experience in JavaScript with React / Redux is 3 years, HTML and CSS – 7 years.
 
-Ответственный, в состоянии самостоятельно устанавливать сроки и соблюдать их. 
+I’m able to set deadlines on my own and comply with them. I’m constantly learning and create my own projects to enhance new knowledge. I can work with feedback and analyze code reviews to improve my skills.
 
-Постоянно обучаюсь, в основном на англ. языке. Закончил Harvard Extension School на специализации «Web Programming with Python and JavaScript», сейчас прохожу обучение по «Web application development using Node JS». 
+I started the commercial development 7 years ago; in 2013, on the date of foundation my own company. It is a medical cosmetology center. Then in few month later, I needed a website development. I tried to find someone who can help me with it, but I found nobody. And I started learning web development for myself. I created my first website on PHP for my medical center and it is the same nowadays.
 
-В свободное время создаю собственные проекты. Собственные проекты: Сервис Инстаграм продаж Bember, интернет-магазин одежды Jupa, косметологический центр Тори. 
-
-Умею работать с обратной связью и анализировать критику. Неконфликтен, но способен аргументировать и отстоять свою точку зрения. Готов выступать в качестве тимлида на небольших проектах, так как есть опыт руководства командой до 10 человек с собственных проектов. 
-
-Имею чувство вкуса и качества, свободно владею Adobe Photoshop, Adobe XD, могу за 6-8 часов самостоятельно создать прототип нового проекта для презентации заказчику.
-
-<!---
-a-bibikov/a-bibikov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Then I understood that I like development so much and begin trying hard to learn deeper in it. I’m studied the Harvard Extension School, Yandex school of user interfaces development an Facebook mobile dev school. 
