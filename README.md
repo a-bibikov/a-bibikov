@@ -1,6 +1,6 @@
 ### Hi, I'm Aleksandr
 
-Tech lead and full stack engineer from Antalya. I've been building for the web for 15+ years, mostly with React, Next.js, Node.js and TypeScript. These days I spend a lot of time on AI agents: Claude, MCP servers and small skills that take routine work off a team.
+Tech lead and full stack engineer from Antalya. I’ve been building web applications for 15+ years, mostly with React, Next.js, Node.js and TypeScript. These days I spend a lot of time on AI agents: Claude, MCP servers and small skills that take routine work off a team.
 
 I like taking an idea all the way to something people use. At work that has meant an e-commerce platform handling 20M+ orders a year and a fintech banking app. On the side it means small products and tools, some of which live here.
 
