@@ -1,9 +1,23 @@
-Hello. My name is Alexander. I am Frontend javascript developer (React.js) with some Node.js background. I'm ready for relocation or remote work as Frontend developer.
+### Hi, I'm Aleksandr
 
-I create websites and services for my clients during more than 9 years as fullstack developer. My experience in JavaScript with React / Redux is 3 years, HTML and CSS – 7 years.
+Tech lead and full stack engineer from Antalya. I've been building for the web for 15+ years, mostly with React, Next.js, Node.js and TypeScript. These days I spend a lot of time on AI agents: Claude, MCP servers and small skills that take routine work off a team.
 
-I’m able to set deadlines on my own and comply with them. I’m constantly learning and create my own projects to enhance new knowledge. I can work with feedback and analyze code reviews to improve my skills.
+I like taking an idea all the way to something people use. At work that has meant an e-commerce platform handling 20M+ orders a year and a fintech banking app. On the side it means small products and tools, some of which live here.
 
-I started the commercial development in 2013, on the date of foundation my own company. It is a medical cosmetology center. Then in few month later, I needed a website development. I tried to find someone who can help me with it, but I found nobody. And I started learning web development for myself. I created my first website on PHP for my medical center and it is the same nowadays.
+#### What I'm building
 
-Then I understood that I like development so much and begin trying hard to learn deeper in it. I’m studied the Harvard Extension School, Yandex school of user interfaces development an Facebook mobile dev school. 
+| Project | What it is | Status |
+| --- | --- | --- |
+| [abibikov](https://github.com/a-bibikov/abibikov) | My site and CV as code: Markdown in, ATS-friendly PDFs out | In progress |
+| <!-- name --> | <!-- one line: what it does and for whom --> | <!-- Idea / In progress / Live --> |
+| <!-- name --> | <!-- one line --> | <!-- status --> |
+
+#### What I work with
+
+React · Next.js · TypeScript · Node.js · NestJS · PostgreSQL · Redis · Docker · GitHub Actions · Claude API · MCP · RAG
+
+#### Elsewhere
+
+[LinkedIn](https://www.linkedin.com/in/bibikov-alexander) · [Telegram](https://t.me/albibikov) · abibikov.com@gmail.com
+
+Open to tech lead and senior full stack roles, remote.
